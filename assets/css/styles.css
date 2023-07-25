@@ -1,0 +1,19 @@
+* {
+    box-sizing: border-box;
+}
+
+:root {
+    --heading-color: #152427;
+    --background-color: #143c3c;
+    --text-color: text color/light gray;
+}
+
+html {
+    font-size: 62.5%;
+}
+
+body {
+    font-size: 1.6rem;
+}
+
+/* ======Common========= */
